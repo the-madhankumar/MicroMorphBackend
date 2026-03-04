@@ -3,10 +3,10 @@
 MicroMorph is an intelligent embedded microscopy platform designed to identify, classify, and count marine micro-organisms in real-time. This repository contains the backend processing engine, which leverages a multi-model ensemble to analyze microscopic images and provide ecological insights.
 
 ## 🚀 Features
-* [cite_start]**Multi-Model Ensemble:** Combines five different perspectives for species-level recognition, including visual detection and morphological analysis.
-* [cite_start]**Feature Extraction:** Computes 131+ biological parameters (geometric, Hu, Zernike, color, and texture features) directly from organism contours.
-* [cite_start]**Similarity Learning:** Uses embedding-based learning to identify and store unseen organisms for continuous system improvement.
-* [cite_start]**Statistical Reliability:** Includes built-in metrics to calculate mean confidence, standard deviation, and reliability scores for model predictions.
+* **Multi-Model Ensemble:** Combines five different perspectives for species-level recognition, including visual detection and morphological analysis.
+* **Feature Extraction:** Computes 131+ biological parameters (geometric, Hu, Zernike, color, and texture features) directly from organism contours.
+* **Similarity Learning:** Uses embedding-based learning to identify and store unseen organisms for continuous system improvement.
+* **Statistical Reliability:** Includes built-in metrics to calculate mean confidence, standard deviation, and reliability scores for model predictions.
 
 ## 🛠️ Tech Stack
 * **Language:** Python
